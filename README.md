@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="https://raw.githubusercontent.com/xXehub/system-employee/master/screenshot/create-employee.png" width="900" alt="System Employee" />
+  <img src="https://raw.githubusercontent.com/MuhammadRafli2407/uts-miniproject/main/screenshot/create-employee.png" width="900" alt="System Employee" />
 
   <a href="#">Demo</a>
 
