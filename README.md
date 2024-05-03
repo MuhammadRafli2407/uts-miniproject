@@ -11,32 +11,32 @@
 <h1 align="center">System Barang</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/xXehub/system-employee?">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/MuhammadRafli2407/system-employee?">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/xXehub/system-employee?">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/MuhammadRafli2407/system-employee?">
 
 <!-- commit frequency -->
-  <a href="https://github.com/xXehub/system-employee/commits/main" target="_blank">
-    <img src="https://img.shields.io/github/commit-activity/m/xXehub/system-employee?" alt="Badge showing average commit frequency per month"/>
+  <a href="https://github.com/MuhammadRafli2407/system-employee/commits/main" target="_blank">
+    <img src="https://img.shields.io/github/commit-activity/m/MuhammadRafli2407/system-employee?" alt="Badge showing average commit frequency per month"/>
   </a>
 
   <!-- last commit -->
-  <a href="https://github.com/xXehub/system-employee/commits/main" target="_blank">
-    <img src="https://img.shields.io/github/last-commit/xXehub/system-employee?" alt="Badge showing when the last commit was made"/>
+  <a href="https://github.com/MuhammadRafli2407/system-employee/commits/main" target="_blank">
+    <img src="https://img.shields.io/github/last-commit/MuhammadRafli2407/system-employee?" alt="Badge showing when the last commit was made"/>
   </a>
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/xXehub/system-employee?">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/MuhammadRafli2407/system-employee?">
 
-  <a href="https://github.com/xXehub/system-employee/blob/master/LICENSE.md" target="_blank">
-    <img alt="Badge showing project license type" src="https://img.shields.io/github/license/xXehub/system-employee?color=f85149">
+  <a href="https://github.com/MuhammadRafli2407/system-employee/blob/master/LICENSE.md" target="_blank">
+    <img alt="Badge showing project license type" src="https://img.shields.io/github/license/MuhammadRafli2407/system-employee?color=f85149">
 
   </a>
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/xXehub/system-employee?color=56BEB8" /> -->
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/MuhammadRafli2407/system-employee?color=56BEB8" /> -->
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/xXehub/system-employee?color=56BEB8" /> -->
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/MuhammadRafli2407/system-employee?color=56BEB8" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/xXehub/system-employee?color=56BEB8" /> -->
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/MuhammadRafli2407/system-employee?color=56BEB8" /> -->
 </p>
 
 <!-- Status -->
@@ -55,7 +55,7 @@
   <a href="#book-setup">Setup</a> &#xa0; | &#xa0;
   <a href="#gear-konfigurasi">Konfigurasi</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/xXehub" target="_blank">Author</a>
+  <a href="https://github.com/MuhammadRafli2407" target="_blank">Author</a>
 </p>
 
 <br>
@@ -92,7 +92,7 @@ Sebelum melakukan setup / installasi, harus sudah menginstall **[Git](https://gi
 
 ```bash
 # Clone project ke direktori lokal 
-$ git clone https://github.com/xXehub/system-employee
+$ git clone https://github.com/MuhammadRafli2407/system-employee
 
 # Masuk ke dir project
 $ cd system-employee
@@ -143,12 +143,12 @@ DB_PASSWORD=root123
 
 This project is licensed under the MIT License. For more details, please refer to the [LICENSE](LICENSE.md) File.
 
-**Authors** : [@xXehub](https://www.github.com/xXehub)
+**Authors** : [@MuhammadRafli2407](https://www.github.com/MuhammadRafli2407)
 
-<!-- Made with :heart: by <a href="https://github.com/xXehub" target="_blank">{{YOUR_NAME}}</a>
+<!-- Made with :heart: by <a href="https://github.com/MuhammadRafli2407" target="_blank">{{YOUR_NAME}}</a>
 
 &#xa0; -->
 <!-- 
 ## :label: Authors
 
--   [@xXehub](https://www.github.com/xXehub) -->
+-   [@MuhammadRafli2407](https://www.github.com/MuhammadRafli2407) -->
